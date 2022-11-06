@@ -1,0 +1,20 @@
+.card-wrap{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.card-id{
+    border: solid;
+    border-radius: 15px 0 15px 0;
+    margin: 30px;
+}
+
+
+.card-id img{
+    width: 100%;
+    display: grid;
+    place-items: center;
+    border-radius: 15px 0 0px 0;
+
+}
+
